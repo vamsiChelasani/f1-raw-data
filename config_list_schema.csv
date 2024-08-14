@@ -1,0 +1,9 @@
+baseUrl,relativeUrl,fileName
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/circuits.csv,circuits.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/races.csv,races.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/constructors.csv,constructors.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/drivers.csv,drivers.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/results.csv,results.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/pit_stops.csv,pit_stops.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/lap_times.csv,lap_times.csv
+https://raw.githubusercontent.com,vamsiChelasani/f1-raw-data/main/f1_db/qualifying.csv,qualifying.csv
